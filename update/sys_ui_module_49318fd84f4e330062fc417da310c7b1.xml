@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="demo incidents">0d318fd84f4e330062fc417da310c7af</application>
+        <filter/>
+        <name>demo incidents</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_366654_sriinducs.demo_incidents_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 09:35:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>49318fd84f4e330062fc417da310c7b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>demo incidents</sys_name>
+        <sys_package display_value="SRIINDUCSE" source="x_366654_sriinducs">0adb3d1c4f4a330062fc417da310c7df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUCSE">0adb3d1c4f4a330062fc417da310c7df</sys_scope>
+        <sys_update_name>sys_ui_module_49318fd84f4e330062fc417da310c7b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 09:35:28</sys_updated_on>
+        <table>x_366654_sriinducs_demo_incidents</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

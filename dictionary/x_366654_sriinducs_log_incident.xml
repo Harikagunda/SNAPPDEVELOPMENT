@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Log incident" max_length="40" name="x_366654_sriinducs_log_incident" sizeclass="3" type="collection">
+        <element label="history" max_length="100" name="history" type="journal"/>
+        <element label="Request datetime" max_length="40" name="request_datetime" type="glide_date_time"/>
+        <element label="Return datetime" max_length="40" name="return_datetime" type="glide_date_time"/>
+        <element default="Test default" label="SINDU short description" max_length="100" name="sindu_short_description" type="string"/>
+        <element default="default desc" label="sriindudesc" max_length="100" name="sriindudesc" type="string"/>
+        <element default="default desc" label="sriindu desc" max_length="100" name="sriindu_desc" type="string"/>
+        <element label="Start Date" max_length="40" name="u_start_date" read_only="true" type="glide_date"/>
+        <element choice="1" label="contact type2" max_length="40" name="x_366654_sriinducs_contact_type2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" sequence="0"/>
+                <element inactive_on_update="false" label="phone" sequence="1" value="email"/>
+                <element inactive_on_update="false" label="chat" sequence="2" value="chat"/>
+            </choice>
+        </element>
+        <element choice="1" label="incident content type" max_length="100" name="x_366654_sriinducs_incident_content_type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

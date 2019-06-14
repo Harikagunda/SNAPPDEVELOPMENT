@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-06-14 04:53:23">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:50:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cc23d8094f82b30062fc417da310c7f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_college_service</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SRIINDUCSE" source="x_366654_sriinducs">0adb3d1c4f4a330062fc417da310c7df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUCSE">0adb3d1c4f4a330062fc417da310c7df</sys_scope>
+        <sys_update_name>sys_portal_page_cc23d8094f82b30062fc417da310c7f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:50:21</sys_updated_on>
+        <title>catalog_college_service</title>
+        <user/>
+        <view>catalog_college_service</view>
+    </sys_portal_page>
+</record_update>

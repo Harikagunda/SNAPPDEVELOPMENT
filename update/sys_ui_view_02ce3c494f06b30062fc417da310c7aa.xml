@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_sriindu_service</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 08:01:06</sys_created_on>
+        <sys_id>02ce3c494f06b30062fc417da310c7aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sriindu service View</sys_name>
+        <sys_package display_value="SRIINDUCSE" source="x_366654_sriinducs">0adb3d1c4f4a330062fc417da310c7df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUCSE">0adb3d1c4f4a330062fc417da310c7df</sys_scope>
+        <sys_update_name>sys_ui_view_02ce3c494f06b30062fc417da310c7aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 08:01:06</sys_updated_on>
+        <title>sriindu service View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

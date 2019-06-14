@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 05:00:41</sys_created_on>
+        <sys_id>5b75108d4f82b30062fc417da310c7b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366654_sriinducs_log_incident_backup.x_366654_sriinducs.log_incident_backup_user</sys_name>
+        <sys_package display_value="SRIINDUCSE" source="x_366654_sriinducs">0adb3d1c4f4a330062fc417da310c7df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUCSE">0adb3d1c4f4a330062fc417da310c7df</sys_scope>
+        <sys_security_acl display_value="x_366654_sriinducs_log_incident_backup">1375108d4f82b30062fc417da310c7b1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5b75108d4f82b30062fc417da310c7b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 05:00:41</sys_updated_on>
+        <sys_user_role display_value="x_366654_sriinducs.log_incident_backup_user" name="x_366654_sriinducs.log_incident_backup_user">03751c4d4f82b30062fc417da310c7fd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
