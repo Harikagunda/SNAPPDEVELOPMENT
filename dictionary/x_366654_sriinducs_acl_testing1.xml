@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" label="acl_testing1" max_length="40" name="x_366654_sriinducs_acl_testing1" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="short description" max_length="100" name="short_description" type="string"/>
+    </element>
+</database>

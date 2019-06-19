@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message_function">
+    <sys_soap_message_function action="INSERT_OR_UPDATE">
+        <authentication_type/>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <certificate/>
+        <enable_mutual_auth>false</enable_mutual_auth>
+        <envelope><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:x="http://www.service-now.com/x_366654_sriinducs_wspublish">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <x:get>
+         <sys_id>${get.sys_id}</sys_id>
+         <!--Optional:-->
+         <__use_view>${get.__use_view}</__use_view>
+      </x:get>
+   </soapenv:Body>
+</soapenv:Envelope>]]></envelope>
+        <function_name>get</function_name>
+        <key_store/>
+        <key_store_alias/>
+        <key_store_password/>
+        <lock>false</lock>
+        <protocol_profile/>
+        <qualified_name>soaptest5 [ get ]</qualified_name>
+        <soap_action>http://www.service-now.com/x_366654_sriinducs_wspublish/get</soap_action>
+        <soap_endpoint>https://dev69770.service-now.com/x_366654_sriinducs_wspublish.do?SOAP</soap_endpoint>
+        <soap_message display_value="soaptest5">2e786bf64f4ab70062fc417da310c747</soap_message>
+        <strip_whitespace>false</strip_whitespace>
+        <sys_class_name>sys_soap_message_function</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 06:55:30</sys_created_on>
+        <sys_id>e749633a4f4ab70062fc417da310c7a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>get</sys_name>
+        <sys_package display_value="SRIINDUCSE" source="x_366654_sriinducs">0adb3d1c4f4a330062fc417da310c7df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUCSE">0adb3d1c4f4a330062fc417da310c7df</sys_scope>
+        <sys_update_name>sys_soap_message_function_e749633a4f4ab70062fc417da310c7a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 06:55:30</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_ws_security>false</use_ws_security>
+        <ws_security_type/>
+        <ws_security_username_profile/>
+        <ws_security_x509_profile/>
+    </sys_soap_message_function>
+</record_update>

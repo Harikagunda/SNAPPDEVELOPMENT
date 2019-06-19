@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_366654_sriinducs_rating">x_366654_sriinducs_rating</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>RAT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-16 06:13:15</sys_created_on>
+        <sys_id>a7d2400a4f86370062fc417da310c74a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RAT</sys_name>
+        <sys_package display_value="SRIINDUCSE" source="x_366654_sriinducs">0adb3d1c4f4a330062fc417da310c7df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRIINDUCSE">0adb3d1c4f4a330062fc417da310c7df</sys_scope>
+        <sys_update_name>sys_number_a7d2400a4f86370062fc417da310c74a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-16 06:13:15</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="webpublish" language="en" table="x_366654_sriinducs_webpublish">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>webpublish</label>
+            <language>en</language>
+            <name>x_366654_sriinducs_webpublish</name>
+            <plural>webpublishes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:18:28</sys_created_on>
+            <sys_id>55d0abb24f4ab70062fc417da310c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>webpublish</sys_name>
+            <sys_package display_value="SRIINDUCSE" source="x_366654_sriinducs">0adb3d1c4f4a330062fc417da310c7df</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SRIINDUCSE">0adb3d1c4f4a330062fc417da310c7df</sys_scope>
+            <sys_update_name>sys_documentation_x_366654_sriinducs_webpublish__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:18:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

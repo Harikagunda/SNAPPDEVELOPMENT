@@ -16,7 +16,7 @@
         <order>0</order>
         <parent/>
         <roles/>
-        <sc_catalog display_value="College Service">bea2140d4f82b30062fc417da310c760</sc_catalog>
+        <sc_catalog display_value="College Service catalog">bea2140d4f82b30062fc417da310c760</sc_catalog>
         <show_in_cms>false</show_in_cms>
         <sys_class_name>sc_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>

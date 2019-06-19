@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Book">1c3ff8894f06b30062fc417da310c76c</sc_cat_item>
-        <sc_catalog display_value="College Service">bea2140d4f82b30062fc417da310c760</sc_catalog>
+        <sc_catalog display_value="College Service catalog">bea2140d4f82b30062fc417da310c760</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-13 08:05:26</sys_created_on>
